@@ -1,7 +1,7 @@
 name: Teatro
 favicon: null
-layout_spectrum: 0.9353272134903818
-typography_spectrum: 0.2763711230363697
+layout_spectrum: 1
+typography_spectrum: 0.94825
 cta:
   domain: null
   bucket: null
