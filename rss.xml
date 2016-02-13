@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Teatro]]></title>
+        <description><![CDATA[Teatro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 01:58:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sentir es aprender]]></title>
+            <description><![CDATA[<article><h1>Sentir es aprender</h1><p>Casi Normales y Los Monstruos, terapia pura y dura para un sensible y memorioso corazón.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e25cd48b10e7dd24093ae7fe658343f98b18413c.png"></article>]]></description>
+            <link>undefinedsentir-es-aprender/index.html</link>
+            <guid isPermaLink="false">a69112f2-cc5c-482f-b4dd-266e65f89cf9</guid>
+            <pubDate>Sat, 13 Feb 2016 01:58:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
