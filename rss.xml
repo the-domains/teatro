@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Teatro]]></title>
         <description><![CDATA[Teatro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 01:58:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 07:01:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El fenómeno que salió del off]]></title>
+            <description><![CDATA[<article><h1>El fenómeno que salió del off</h1><p>Domingo, 11 de la mañana. En una vereda de Balvanera, frente a una puerta metálica, junto a un estacionamiento, se apiña un grupo de personas. Esperan para entrar a ver una obra de teatro. Algunos tienen su entrada comprada hace varias semanas. Muchos otros ya la reservaron para los próximos meses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c8e4ea6795f4d4b1bc1bb8e8e2c3c5d44209e4.jpg"></article>]]></description>
+            <link>http://www.clarin.com/extrashow/teatro/Teatro_off-Mi_hijo_solo_camina_un_poco_mas_lento-Guillermo_Cacace_0_1399060108.html</link>
+            <guid isPermaLink="false">03a1c6e0-a352-456e-9ff9-30ec895d91cc</guid>
+            <pubDate>Sun, 21 Feb 2016 07:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sentir es aprender]]></title>
-            <description><![CDATA[<article><h1>Sentir es aprender</h1><p>Casi Normales y Los Monstruos, terapia pura y dura para un sensible y memorioso corazón.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e25cd48b10e7dd24093ae7fe658343f98b18413c.png"></article>]]></description>
-            <link>undefinedsentir-es-aprender/index.html</link>
+            <description><![CDATA[<article><h1>Sentir es aprender</h1><p>Casi Normales y Los Monstruos, terapia pura y dura para un sensible y memorioso corazón.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c58388091843b0594a793fd494990ada57c9db27.png"></article>]]></description>
+            <link>https://thegrid.ai/teatro/sentir-es-aprender/index.html</link>
             <guid isPermaLink="false">a69112f2-cc5c-482f-b4dd-266e65f89cf9</guid>
             <pubDate>Sat, 13 Feb 2016 01:58:24 GMT</pubDate>
         </item>
