@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:57:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fun Home]]></title>
+            <description><![CDATA[<article><h1>Fun Home</h1><p>Alison Bechdel is a cartoonist: It's her job to fit stories into boxes. But her own life story resists easy lines. Lisa Kron and Jeanine Tesori's Fun Home, based on Bechdel's graphic memoir, gracefully and movingly contrasts two narratives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/968f63b067c56b0a04942b2a2aef02941bbde5f6.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/fun-home-1</link>
+            <guid isPermaLink="false">5b5970a6-fbb8-4253-9825-8d40d282d794</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hamilton]]></title>
             <description><![CDATA[<article><h1>Hamilton</h1><p>What is left to say? After Founding Father Alexander Hamilton's prodigious quill scratched out 12 volumes of nation-building fiscal and military policy; after Lin-Manuel Miranda turned that titanic achievement (via Ron Chernow's 2004 biography) into the greatest American musical in decades; after every critic in town (including me) praised the Public Theater world premiere to high heaven; and after seeing this language-drunk, rhyme-crazy dynamo a second time, I can only marvel: We've used up all the damn words.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e565cfcce448cca876d11d633c4a47f744bef9eb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.lanacion.com.ar/1862215-historias-de-amor-que-guardan-mas-historias-de-amor</link>
             <guid isPermaLink="false">7e7d4fbb-8b0b-4b65-8e48-a3b087e559bf</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revisión de un clásico musical porteño]]></title>
-            <description><![CDATA[<article><h1>Revisión de un clásico musical porteño</h1><p>Gotán (ópera rantifusa) / Libro: Julio Tahier / Intérpretes: Laura Conforte, Alejandro Paker, Alicia Vignola, Black Rodríguez Méndez, Sofía González Gil, Max Acavallo, Tamara Bisceglia y Eber Burger / Coreografía: Rubén Cuello / Vestuario y escenografía: Pepe Uría / Arreglos, dirección musical y ejecución en vivo: Federico Mizrahi / Producción artística: Lino Patalano / Adaptación y dirección general: Manuel González Gil / Sala: Maipo Kabaret / Funciones: jueves a sábado, a las 22.30, y domingo, a las 21.30 / Duración: 105 minutos / Nuestra opinión: buena</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6969772a2e6eba3b2795611943a2c3210751b64.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1824155-revision-de-un-clasico-musical-porteno</link>
-            <guid isPermaLink="false">44a6c095-53d9-43a9-9f22-2df31b58a809</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
