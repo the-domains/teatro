@@ -4,11 +4,25 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:47:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[La otra escena: cuando lo emergente viene marchando]]></title>
+            <description><![CDATA[<article><h1>La otra escena: cuando lo emergente viene marchando</h1><p>La danza contemporánea independiente decidió abrir la temporada anual. Duramadre, del grupo KM29, acaba de presentarse en Bélgica mientras, en Almagro, Los cuerpos va por su tercera temporada. Esta semana comienzan dos encuentros internacionales de danza emergente, VERBA y FIDEBA, que incluyen trabajos del holandés Joeri Dubbe, Oscar Araiz, Silvio Lang y varias propuestas latinoamericanas.</p><img src="http://bucket.glanacion.com/anexos/fotos/14/2158814.jpg"></article>]]></description>
+            <link>http://www.lanacion.com.ar/1871268-la-otra-escena-cuando-lo-emergente-viene-marchando</link>
+            <guid isPermaLink="false">38058d58-7677-40cc-8f88-f8b8184c0bd9</guid>
+            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recomendado de teatro: un musical imperdible]]></title>
+            <description><![CDATA[<article><h1>Recomendado de teatro: un musical imperdible</h1><p>Recomendado de teatro: un musical imperdible | Manzi, la vida en Orsai reúne grandes actuaciones y textos para fanáticos del género, y no tanto - LA NACION</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/161fd5f79bca1367900a8fab01b3c8c52db7d8da.jpg"></article>]]></description>
+            <link>http://www.lanacion.com.ar/1872111-recomendado-de-teatro-un-musical-imperdible</link>
+            <guid isPermaLink="false">ec5d1c60-c846-406c-b63a-6aadb941e400</guid>
+            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Un clásico para volver a ver]]></title>
-            <description><![CDATA[<article><h1>Un clásico para volver a ver</h1><p>Un clásico para volver a ver | Filomena Marturano, la tragicomedia que supo protagonizar Tita Merello, se renueva de la mano de Claudia Lapacó y un gran elenco en el teatro 25 de Mayo - LA NACION</p><img src="http://bucket.glanacion.com/anexos/fotos/12/2156912.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Un clásico para volver a ver</h1><p>Un clásico para volver a ver | Filomena Marturano, la tragicomedia que supo protagonizar Tita Merello, se renueva de la mano de Claudia Lapacó y un gran elenco en el teatro 25 de Mayo - LA NACION</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f53f32905b1cde11f05f1982a45578a3479a4530.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1870019-un-clasico-para-volver-a-ver</link>
             <guid isPermaLink="false">ecabfa3a-f24f-4ca7-88f9-5d877492f66b</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.lanacion.com.ar/1872930-volvio-un-clasico-a-caminito</link>
             <guid isPermaLink="false">a26666da-c15d-497e-a9e9-258a912b6d8c</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andamio 90 cumple 25 años como usina de artistas]]></title>
-            <description><![CDATA[<article><h1>Andamio 90 cumple 25 años como usina de artistas</h1><p>Alejandro Samek, hijo de la fundadora, Alejandra Boero, repasa la historia de la sala teatral y espacio educativo Corría el año 1990. Los acontecimientos políticos, sociales y económicos bullían anticipando una década de gran movimiento, con todo lo que ello pudiera implicar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/392ccd86e8ac05092d90cb8fbc6b4845131ee155.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1836149-andamio-90-cumple-25-anos-como-usina-de-artistas</link>
-            <guid isPermaLink="false">a3714782-866a-4d4d-827b-5217502f9c4d</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Una trama conocida con actores brillantes]]></title>
-            <description><![CDATA[<article><h1>Una trama conocida con actores brillantes</h1><p>¡Ay, Carmela!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98a5c2ba01a9e37c0391cbb24755320d5f0f6259.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1797608-una-trama-conocida-con-actores-brillantes</link>
-            <guid isPermaLink="false">2cbfef55-e724-43af-806c-49d9f1eaa750</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
