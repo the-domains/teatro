@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:56:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Matilda]]></title>
+            <description><![CDATA[<article><h1>Matilda</h1><p>Theater review by David Cote. Shubert Theatre (see Broadway). Book by Dennis Kelly. Music and lyrics by Tim Minchin. Dir. Matthew Warchus. With ensemble cast. 2hrs 35mins. One intermission. Adults are divided on the subject of children in the delectably sweet and nasty musical Matilda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cc90cbb43880296e79087d40d3b4b37e34d9db6.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/matilda</link>
+            <guid isPermaLink="false">6ba76b99-0722-40a9-b088-847cc6e4b8ef</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[School of Rock]]></title>
             <description><![CDATA[<article><h1>School of Rock</h1><p>School of Rock: Theater review by David Cote Ever see the pitch-perfect 2003 Jack Black comedy School of Rock? Then you know what to expect from the musical version: fake substitute teacher Dewey Finn frenetically inspiring his charges to release their inner Jimi Hendrix; uptight preppy tweens learning classic riffs; and the band's pivotal, make-or-break gig, with their overbearing parents watching in horror.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f450af659a42d48686126a276d7ea696aceec9ad.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>La otra escena: una opereta, una reflexión delirante y un paranoico</h1><p>El power trío que conformaron Julián Larquier Tellarini, Pablo Sigal y Julián Tello en Los talentos se atomiza para mostrar tres espectáculos impecables: Matinée Fantômas, Las ideas y Polite Walter Jakob y Agustín Mendilaharzu estrenaron hace tiempo ya Los talentos, un verdadero objeto de culto que tuvo merecidos reconocimientos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eef51b7d89b1edb14b50e5507979cb0edbc21b20.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1873304-polite</link>
             <guid isPermaLink="false">a0f8ed22-4c77-4784-9f5f-1880cd23c570</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La otra escena: cuando lo emergente viene marchando]]></title>
-            <description><![CDATA[<article><h1>La otra escena: cuando lo emergente viene marchando</h1><p>La danza contemporánea independiente decidió abrir la temporada anual. Duramadre, del grupo KM29, acaba de presentarse en Bélgica mientras, en Almagro, Los cuerpos va por su tercera temporada. Esta semana comienzan dos encuentros internacionales de danza emergente, VERBA y FIDEBA, que incluyen trabajos del holandés Joeri Dubbe, Oscar Araiz, Silvio Lang y varias propuestas latinoamericanas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e43d465ee7718db5e8fa613260090524a24f497.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1871268-la-otra-escena-cuando-lo-emergente-viene-marchando</link>
-            <guid isPermaLink="false">38058d58-7677-40cc-8f88-f8b8184c0bd9</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
         </item>
     </channel>
