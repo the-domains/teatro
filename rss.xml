@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:58:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Book of Mormon]]></title>
+            <description><![CDATA[<article><h1>The Book of Mormon</h1><p>If theater is your religion and the Broadway musical your sect, you've been woefully faith-challenged of late. Venturesome, boundary-pushing works such as Spring Awakening, Bloody Bloody Andrew Jackson and Next to Normal closed too soon. American Idiot was shamefully ignored at the Tonys and will be gone in three weeks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8470583c28278755ef56baab66a44fe0c14057c.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/the-book-of-mormon</link>
+            <guid isPermaLink="false">b42e6d08-11d1-45f2-8879-fe940428e5de</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Color Purple]]></title>
             <description><![CDATA[<article><h1>The Color Purple</h1><p>Seeing The Color Purple on Broadway, a decade after its premiere, is like meeting an old friend who has gotten her life together since the last time you saw her. It seems more confident in itself, surer in its sexuality, and it's lost a lot of weight; the cast of John Doyle's revival and the theater in which it's playing are 40 percent smaller than their 2005 equivalents.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25abc886dcd14c70350f36272dd5bf415e40b485.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Matilda</h1><p>Theater review by David Cote. Shubert Theatre (see Broadway). Book by Dennis Kelly. Music and lyrics by Tim Minchin. Dir. Matthew Warchus. With ensemble cast. 2hrs 35mins. One intermission. Adults are divided on the subject of children in the delectably sweet and nasty musical Matilda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cc90cbb43880296e79087d40d3b4b37e34d9db6.jpg"></article>]]></description>
             <link>http://www.timeout.com/newyork/theater/matilda</link>
             <guid isPermaLink="false">6ba76b99-0722-40a9-b088-847cc6e4b8ef</guid>
-            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Rock]]></title>
-            <description><![CDATA[<article><h1>School of Rock</h1><p>School of Rock: Theater review by David Cote Ever see the pitch-perfect 2003 Jack Black comedy School of Rock? Then you know what to expect from the musical version: fake substitute teacher Dewey Finn frenetically inspiring his charges to release their inner Jimi Hendrix; uptight preppy tweens learning classic riffs; and the band's pivotal, make-or-break gig, with their overbearing parents watching in horror.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f450af659a42d48686126a276d7ea696aceec9ad.jpg"></article>]]></description>
-            <link>http://www.timeout.com/newyork/theater/school-of-rock</link>
-            <guid isPermaLink="false">2d76e252-a31c-48fe-aaff-9e1a7f136013</guid>
             <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
         </item>
     </channel>
