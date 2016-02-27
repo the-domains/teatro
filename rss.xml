@@ -4,8 +4,22 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:46:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Al estilo de otros tiempos]]></title>
+            <description><![CDATA[<article><h1>Al estilo de otros tiempos</h1><p>Otro estilo de vida / Texto: Noel Coward / Versión: Jorge Schussheim / Intérpretes: Inés Estévez, Marco Antonio Caponi, Alberto Ajaka, Fabián Arenillas, Dan Breitman, Paola Lusardi y Demian Salomón / Escenografía: Tito Egurza / Vestuario: Renata Schussheim / Iluminación y multimedia: Tito Egurza / Dirección y puesta en escena: Lía Jelín / Sala: Tabarís / Duración: 105 minutos.</p><img src="http://bucket.glanacion.com/anexos/fotos/66/2000566.jpg"></article>]]></description>
+            <link>http://www.lanacion.com.ar/1764126-al-estilo-de-otros-tiempos</link>
+            <guid isPermaLink="false">64fe1ae2-2b70-4bb9-aa2e-1dc368fada80</guid>
+            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Regresa el musical más candoroso]]></title>
+            <description><![CDATA[<article><h1>Regresa el musical más candoroso</h1><p>El diluvio que viene es una de las comedias musicales más vistas en Buenos Aires y vuelve en un nuevo montaje, con cambios en el elenco protagónico femenino: Sabrina Artaza y Déborah Turza Como suele ocurrir con esos espectáculos que por alguna razón están destinados al éxito, el carácter local de la producción de pronto se convierte en un aluvión de traducciones y producciones en distintos escenarios del mundo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e1f059608e78152dc29284fde09359f29bd7dcf.jpg"></article>]]></description>
+            <link>http://www.lanacion.com.ar/1862591-regresa-el-musical-mas-candoroso</link>
+            <guid isPermaLink="false">486a7fe2-c94a-40e3-afa7-c9e01eb57774</guid>
+            <pubDate>Sat, 27 Feb 2016 21:45:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Volvió un clásico a Caminito]]></title>
             <description><![CDATA[<article><h1>Volvió un clásico a Caminito</h1><p>Jettatore. / Libro: Gregorio de Laferrère. / Intérpretes: Damián Dreizik, Andrés Caminos, Katia Szechtman, Raquel Sokolowicz, Nicolás Levín, Alejandro Vizzoti, Gadiel Sztryk, Tatiana Emede, Sol Cintas y Julián Rodríguez Rona. / Escenografía y vestuario: Gabriela Aurora Fernández. / Luces: Matías Sendón. / Coreografía: Manuel Attwell. / Sala: Teatro Caminito.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed15916a5e3f1de88b986bd9ef67ad9aacb614ac.jpg"></article>]]></description>
@@ -61,13 +75,6 @@
             <link>http://www.clarin.com/extrashow/teatro/Teatro_off-Mi_hijo_solo_camina_un_poco_mas_lento-Guillermo_Cacace_0_1399060108.html</link>
             <guid isPermaLink="false">03a1c6e0-a352-456e-9ff9-30ec895d91cc</guid>
             <pubDate>Sun, 21 Feb 2016 07:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sentir es aprender]]></title>
-            <description><![CDATA[<article><h1>Sentir es aprender</h1><p>Casi Normales y Los Monstruos, terapia pura y dura para un sensible y memorioso corazón.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c58388091843b0594a793fd494990ada57c9db27.png"></article>]]></description>
-            <link>https://thegrid.ai/teatro/sentir-es-aprender/index.html</link>
-            <guid isPermaLink="false">a69112f2-cc5c-482f-b4dd-266e65f89cf9</guid>
-            <pubDate>Sat, 13 Feb 2016 01:58:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
