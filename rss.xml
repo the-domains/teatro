@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:56:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kinky Boots]]></title>
+            <description><![CDATA[<article><h1>Kinky Boots</h1><p>Theater review by Adam Feldman. Al Hirschfeld Theatre (Broadway). Book by Harvey Fierstein. Music and lyrics by Cyndi Lauper. Dir. Jerry Mitchell. With Stark Sands, Billy Porter, Annaleigh Ashford. 2hrs 20mins. One intermission. [Note: The cast of Kinky Boots has changed since this review was first published.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bb1a17a9afe13776a0300af84c819fdc9b4602c.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/kinky-boots</link>
+            <guid isPermaLink="false">666ef8d4-0b70-4ef6-a550-f364da9f875f</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Matilda]]></title>
             <description><![CDATA[<article><h1>Matilda</h1><p>Theater review by David Cote. Shubert Theatre (see Broadway). Book by Dennis Kelly. Music and lyrics by Tim Minchin. Dir. Matthew Warchus. With ensemble cast. 2hrs 35mins. One intermission. Adults are divided on the subject of children in the delectably sweet and nasty musical Matilda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cc90cbb43880296e79087d40d3b4b37e34d9db6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.lanacion.com.ar/1866182-a-cantar-la-problematica-del-artista</link>
             <guid isPermaLink="false">c2151fa9-0c89-4bc7-bbe4-ddf53404520f</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La otra escena: una opereta, una reflexión delirante y un paranoico]]></title>
-            <description><![CDATA[<article><h1>La otra escena: una opereta, una reflexión delirante y un paranoico</h1><p>El power trío que conformaron Julián Larquier Tellarini, Pablo Sigal y Julián Tello en Los talentos se atomiza para mostrar tres espectáculos impecables: Matinée Fantômas, Las ideas y Polite Walter Jakob y Agustín Mendilaharzu estrenaron hace tiempo ya Los talentos, un verdadero objeto de culto que tuvo merecidos reconocimientos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eef51b7d89b1edb14b50e5507979cb0edbc21b20.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1873304-polite</link>
-            <guid isPermaLink="false">a0f8ed22-4c77-4784-9f5f-1880cd23c570</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
