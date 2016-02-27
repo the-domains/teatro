@@ -4,8 +4,22 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:57:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuerza Bruta]]></title>
+            <description><![CDATA[<article><h1>Fuerza Bruta</h1><p>Fuerza Bruta: Wayra. Daryl Roth Theatre (see Off Broadway). Conceived and directed by Diqui James. With ensemble cast. Running time: 1hr 20mins. No intermission. Wayra: In brief Fuerza Bruta returns in the third installment of the De La Guarda trilogy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88148d25d45f8bc9167a6b2d4c0ca7de4030a65d.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/fuerza-bruta-1</link>
+            <guid isPermaLink="false">f4ed923f-ad81-4248-a495-cb4f4174248c</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jersey Boys]]></title>
+            <description><![CDATA[<article><h1>Jersey Boys</h1><p>A star is reborn in Jersey Boys when the puppyish John Lloyd Young takes vocal wing, channeling the legendary thrills and trills of Four Seasons frontman Frankie Valli. As Young's bright falsetto rings through the air, the August Wilson Theatre becomes a rejuvenation room, transforming baby boomer women into screaming Valli girls in the throes of Young love.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f8278ba06a345334a49d4d0c153c3a427a69a36.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/jersey-boys</link>
+            <guid isPermaLink="false">fd341863-ec16-4241-97c8-9b9746148018</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kinky Boots]]></title>
             <description><![CDATA[<article><h1>Kinky Boots</h1><p>Theater review by Adam Feldman. Al Hirschfeld Theatre (Broadway). Book by Harvey Fierstein. Music and lyrics by Cyndi Lauper. Dir. Jerry Mitchell. With Stark Sands, Billy Porter, Annaleigh Ashford. 2hrs 20mins. One intermission. [Note: The cast of Kinky Boots has changed since this review was first published.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bb1a17a9afe13776a0300af84c819fdc9b4602c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Actores inmensos</h1><p>Jugadores / Libro: Pau Miró / Dirección: Nelson Valente / Elenco: Roberto Carnaghi, Daniel Fanego, Luis Machín, Osmar Núñez / Escenografía e iluminación: Luciano Stecchina / Vestuario: Valeria Cook Música: Silvina Aspiazu / Asistente de dirección: Gonzalo Martínez.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f3da34fea92b55d4a986684a781e43171b4718.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1862197-actores-inmensos</link>
             <guid isPermaLink="false">622441bf-31f9-4266-92a5-65959d6e2838</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recomendado de teatro: una obra que divierte de principio a fin]]></title>
-            <description><![CDATA[<article><h1>Recomendado de teatro: una obra que divierte de principio a fin</h1><p>Recomendado de teatro: una obra que divierte de principio a fin | El otro lado de la cama es una comedia de enredos entre amigos protagonizada por grandes jóvenes actores - LA NACION</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d86378aaef5ecc9260bbf858f0ada23765e78d.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1874540-recomendado-de-teatro-una-obra-que-divierte-de-principio-a-fin</link>
-            <guid isPermaLink="false">75a31912-036f-41f1-aa48-54e380dbe413</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Pruebas, pruebas, miles de pruebas": la historia del regreso de Aquí no podemos hacerlo]]></title>
-            <description><![CDATA[<article><h1>"Pruebas, pruebas, miles de pruebas": la historia del regreso de Aquí no podemos hacerlo</h1><p>"Pruebas, pruebas, miles de pruebas": la historia del regreso de Aquí no podemos hacerlo | El recordado musical sobre la militancia artística que estrenaron Pepe Cibrián, Luis María Serra y Ana Itelman en 1978, vuelve en épocas de "la grieta" con elenco renovado y bajo la dirección del joven Nicolás Pérez Costa - LA NACION</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/909513722b5c6d03e70e2bacefc6b1a16c5cdaca.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1866182-a-cantar-la-problematica-del-artista</link>
-            <guid isPermaLink="false">c2151fa9-0c89-4bc7-bbe4-ddf53404520f</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
         </item>
     </channel>
