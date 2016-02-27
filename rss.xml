@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:58:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Curious Incident of the Dog in the Night-Time]]></title>
+            <description><![CDATA[<article><h1>The Curious Incident of the Dog in the Night-Time</h1><p>The Curious Incident of the Dog in the Night-Time. Ethel Barrymore Theatre (see Broadway). By Simon Stephens. Based on the book by Mark Haddon. Directed by Marianne Elliott. With Alex Sharp, Francesca Faridany. Running time: 2hrs 30mins. One intermission.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d15951dc7ffbed18fd68fa7e3e0e87f3e35434.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/the-curious-incident-of-the-dog-in-the-night-time</link>
+            <guid isPermaLink="false">c5d0e62f-6c63-4078-a8c4-964ff0ca066a</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fun Home]]></title>
             <description><![CDATA[<article><h1>Fun Home</h1><p>Alison Bechdel is a cartoonist: It's her job to fit stories into boxes. But her own life story resists easy lines. Lisa Kron and Jeanine Tesori's Fun Home, based on Bechdel's graphic memoir, gracefully and movingly contrasts two narratives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/968f63b067c56b0a04942b2a2aef02941bbde5f6.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cuando el sexo se mezcla con la amistad</h1><p>Basada en un film español de culto, se estrenó el musical El otro lado de la cama, con temas clásicos del rock argentino Tal vez porque el amor apasionado no hace otra cosa más que envejecer y renacer sin cansancio, siempre habrá algo para agregar acerca de los que, de a dos, se juran y se traicionan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bce87eab05d5e26abd1d830acb04caa74b0ca1bb.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1862193-cuando-el-sexo-se-mezcla-con-la-amistad</link>
             <guid isPermaLink="false">d9521845-6316-483e-97d6-be6893d45d95</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Historias de amor que guardan más historias de amor]]></title>
-            <description><![CDATA[<article><h1>Historias de amor que guardan más historias de amor</h1><p>Vuelve El diario de Adán y Eva, protagonizada por Miguel Ángel Solá y Paula Cancio Viernes 15 de enero de 2016 Esta noche reestrena Hoy: El diario de Adán y Eva, de Mark Twain, la historia reescrita por Miguel Ángel Solá, Manuel González Gil y Blanca Oteyza, dirigida por González Gil y protagonizada por Solá y la española Paula Cancio, pareja en la ficción y en la vida real, es decir que estamos frente a una historia de amor dentro de otra.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be9ce71c3d9fb854590b76e266ca89602460a2be.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1862215-historias-de-amor-que-guardan-mas-historias-de-amor</link>
-            <guid isPermaLink="false">7e7d4fbb-8b0b-4b65-8e48-a3b087e559bf</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
         </item>
     </channel>
