@@ -4,11 +4,18 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:47:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Un clásico para volver a ver]]></title>
+            <description><![CDATA[<article><h1>Un clásico para volver a ver</h1><p>Un clásico para volver a ver | Filomena Marturano, la tragicomedia que supo protagonizar Tita Merello, se renueva de la mano de Claudia Lapacó y un gran elenco en el teatro 25 de Mayo - LA NACION</p><img src="http://bucket.glanacion.com/anexos/fotos/12/2156912.jpg"></article>]]></description>
+            <link>http://www.lanacion.com.ar/1870019-un-clasico-para-volver-a-ver</link>
+            <guid isPermaLink="false">ecabfa3a-f24f-4ca7-88f9-5d877492f66b</guid>
+            <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La otra escena: Tantanian y Couceyro, sociedad imbatible]]></title>
-            <description><![CDATA[<article><h1>La otra escena: Tantanian y Couceyro, sociedad imbatible</h1><p>Vuelven con El rastro, en la terraza del Malba Nació en los jardines de la Biblioteca Nacional. De ahí, pasó a una típica sala alternativa, y de esa sala se expandió a otras del interior del país.</p><img src="http://bucket.glanacion.com/anexos/fotos/59/2143859.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>La otra escena: Tantanian y Couceyro, sociedad imbatible</h1><p>Vuelven con El rastro, en la terraza del Malba Nació en los jardines de la Biblioteca Nacional. De ahí, pasó a una típica sala alternativa, y de esa sala se expandió a otras del interior del país.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/406196644241d0121b60fb225a00d482b6179ff9.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1863792-la-otra-escena-tantanian-y-couceyro-sociedad-imbatible</link>
             <guid isPermaLink="false">53b5fa4d-3509-4df6-9dbc-24de7c06d068</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.lanacion.com.ar/1797608-una-trama-conocida-con-actores-brillantes</link>
             <guid isPermaLink="false">2cbfef55-e724-43af-806c-49d9f1eaa750</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'Finding Neverland,' a Broadway Musical With Matthew Morrison]]></title>
-            <description><![CDATA[<article><h1>Review: 'Finding Neverland,' a Broadway Musical With Matthew Morrison</h1><p>The first entrance applause occurs before even the overture begins. Riotous clapping is occasioned when a bright point of light travels over the ceiling and the curtain of the Lunt-Fontanne Theater in New York, where the push-button, button-pushing musical "Finding Neverland" opened on Wednesday night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721d7ffc934db5cb0bf85669279f144acfda01ec.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2015/04/16/theater/review-finding-neverland-a-broadway-musical-with-matthew-morrison.html?_r=0</link>
-            <guid isPermaLink="false">91f19168-25f0-465a-95bb-de7583178dcc</guid>
-            <pubDate>Sun, 21 Feb 2016 07:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
