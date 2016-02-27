@@ -4,8 +4,15 @@
         <description><![CDATA[Teatro]]></description>
         <link>https://thegrid.ai/teatro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teatro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chicago]]></title>
+            <description><![CDATA[<article><h1>Chicago</h1><p>This John Kander-Fred Ebb-Bob Fosse favorite-revived by director Walter Bobbie and choreographer Ann Reinking-tells the saga of chorus girl Roxie Hart, who murders her lover and, with the help of a huckster lawyer, becomes a vaudeville star. -David Cote Running Time: 2hrs 30mins. One intermission.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7483bf75cc5db7c8fd5bed90a5e88a2839c6657.jpg"></article>]]></description>
+            <link>http://www.timeout.com/newyork/theater/chicago</link>
+            <guid isPermaLink="false">db890395-125b-4d20-9e39-7025c10cb4c4</guid>
+            <pubDate>Sat, 27 Feb 2016 21:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Curious Incident of the Dog in the Night-Time]]></title>
             <description><![CDATA[<article><h1>The Curious Incident of the Dog in the Night-Time</h1><p>The Curious Incident of the Dog in the Night-Time. Ethel Barrymore Theatre (see Broadway). By Simon Stephens. Based on the book by Mark Haddon. Directed by Marianne Elliott. With Alex Sharp, Francesca Faridany. Running time: 2hrs 30mins. One intermission.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d15951dc7ffbed18fd68fa7e3e0e87f3e35434.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>El eterno retorno de Filomena Marturano</h1><p>Llega al Teatro 25 de Mayo una nueva versión del clásico de Eduardo de Filippo, con Claudia Lapacó y Antonio Grimau en los roles principales Creada por el dramaturgo italiano Eduardo de Filippo en 1946, Filomena Marturano es un potente material dramático que no sólo tuvo múltiples versiones escénicas, sino que, además, fue llevada al cine y a la televisión.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3849fa88e93d734c22dcb88490a790bab39d3288.jpg"></article>]]></description>
             <link>http://www.lanacion.com.ar/1865549-con-el-peso-de-los-clasicos</link>
             <guid isPermaLink="false">fc9b46c6-26f9-4619-b80d-21c373b61b3e</guid>
-            <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuando el sexo se mezcla con la amistad]]></title>
-            <description><![CDATA[<article><h1>Cuando el sexo se mezcla con la amistad</h1><p>Basada en un film español de culto, se estrenó el musical El otro lado de la cama, con temas clásicos del rock argentino Tal vez porque el amor apasionado no hace otra cosa más que envejecer y renacer sin cansancio, siempre habrá algo para agregar acerca de los que, de a dos, se juran y se traicionan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bce87eab05d5e26abd1d830acb04caa74b0ca1bb.jpg"></article>]]></description>
-            <link>http://www.lanacion.com.ar/1862193-cuando-el-sexo-se-mezcla-con-la-amistad</link>
-            <guid isPermaLink="false">d9521845-6316-483e-97d6-be6893d45d95</guid>
             <pubDate>Sat, 27 Feb 2016 21:45:04 GMT</pubDate>
         </item>
     </channel>
