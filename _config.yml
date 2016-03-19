@@ -1,7 +1,7 @@
 name: Teatro
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.69199
+layout_spectrum: 0.7429
+typography_spectrum: 0.73206
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#b3bfd9'
     - '#111111'
     - '#feffff'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
